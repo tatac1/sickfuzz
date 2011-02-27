@@ -13,5 +13,7 @@ sickfuzz has some nice features, including .pcap logging for later analysis and 
 
 In order to run it you will need the following:
    - Python: http://www.python.org/getit/
+
    - Wireshark (tshark+editcap): http://www.wireshark.org/download.html
+
    - Spike: http://www.immunitysec.com/resources-freesoftware.shtml
